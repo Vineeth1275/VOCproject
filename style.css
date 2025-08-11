@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: #f4f4f4;
+}
+
+nav {
+  margin-bottom: 50px;
+}
+
+.head {
+  margin: 30px;
+  padding: 20px;
+  border-bottom: 2px solid #8b8989;
+}
+
+nav div h1 {
+  font-size: 4em;
+  font-weight: 600;
+}
+
+.card {
+  max-width: 900px;
+  margin: auto;
+  background-color: white;
+  padding: 35px 25px;
+  border-radius: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 29px;
+}
+.card h2 {
+  margin-bottom: 10px;
+}
+.card ul {
+  margin: 20px 30px;
+}
+
+.c3 h3 {
+  margin: 20px 0;
+}
+.c3 p {
+  margin-bottom: 20px;
+}
+.c3 a {
+  color: blue;
+}
+
+#linkedin-btn {
+  margin-top: 20px;
+  background-color: #0076b4;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 20px;
+
+  margin-right: 10px;
+}
+#linkedin-btn a {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#git {
+  border: none;
+}
+#git a {
+  font-size: large;
+}
