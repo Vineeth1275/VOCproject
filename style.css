@@ -35,7 +35,7 @@ nav div h1 {
   background-color: white;
   padding: 35px 25px;
   border-radius: 20px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px rgba(38, 0, 255, 0.1);
   margin-bottom: 29px;
 }
 .card h2 {
@@ -86,3 +86,4 @@ nav div h1 {
 .foot h2{
   font-size: 50px;
 }
+
