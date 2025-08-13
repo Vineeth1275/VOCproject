@@ -28,7 +28,9 @@ nav div h1 {
   font-size: 4em;
   font-weight: 600;
 }
-
+main{
+  padding-bottom: 20px;
+}
 .card {
   max-width: 900px;
   margin: auto;
@@ -55,6 +57,7 @@ nav div h1 {
   color: blue;
 }
 
+
 #linkedin-btn {
   margin-top: 20px;
   background-color: #0076b4;
@@ -76,14 +79,3 @@ nav div h1 {
 #git a {
   font-size: large;
 }
-
-.foot{
-  background-color: #c5c4c4;
-  padding: 20px;
-  text-align: center;
-  color: rgb(0, 0, 0);
-}
-.foot h2{
-  font-size: 50px;
-}
-
